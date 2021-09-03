@@ -11,6 +11,7 @@
 Features yet to add before non-demo release:
 
     ✅  Export as basic spawning item
+    ✅  Main menu
     ✅  Edit slopes
     ✅  Project saving / loading
     ✅  Project listing
