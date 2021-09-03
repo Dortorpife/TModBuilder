@@ -1,4 +1,5 @@
 # TModBuilder (DEMO v0.2.3)
+TModBuilder allows you to easly make custom structures for your Terraria mods in TModLoader.
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/9G92Y0M/custom-terraria-logoss.png" alt="custom-terraria-logoss" border="0"></a>
 > For use with TModLoader - https://tmodloader.net/
